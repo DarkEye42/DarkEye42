@@ -3,7 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=DarkEye42&theme=ocean-gradient&card_width=1080&card_height=)](https://git.io/streak-stats)
 
 ### Hi there 👋, This is Nazmul Islam
-#### Logo Designer, Web Design & Developer And Flutter Mobile App Developer
+#### Logo Designer, Web Design & Developer And Mobile App Developer
 
 
 Hello,
