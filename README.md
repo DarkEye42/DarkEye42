@@ -1,6 +1,6 @@
 ![Logo Designer, Web Design & Developer And Flutter Mobile App Developer](https://media.licdn.com/dms/image/D4D16AQH-rzG_P8Eh0A/profile-displaybackgroundimage-shrink_350_1400/0/1703100891117?e=1721865600&v=beta&t=iXFyw0kDZkoxEs3g0HQc-vT1TH1jzlDT66ZSNBt9QgI)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=DarkEye42)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=DarkEye42) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEye42)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, This is Nazmul Islam
 #### Logo Designer, Web Design & Developer And Flutter Mobile App Developer
@@ -39,8 +39,4 @@ Skills: DART / JAVA / HTML / CSS / JS / C# / PHP
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarkEye42)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEye42)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/DarkEye42)  
 
