@@ -2,6 +2,7 @@
 ### Hi there 👋, This is Nazmul Islam
 #### Logo Designer, Web Design & Developer And Flutter Mobile App Developer
 
+
 Hello,
 I'm Nazmul Islam, a Computer Science and Engineering graduate from the Asian University of Bangladesh, passionate about leveraging technology to create impactful digital experiences. With over 7 years of expertise in the tech realm, I've honed my skills in various domains, specializing in:
 
@@ -26,4 +27,9 @@ Thank you.
 
 Skills: DART / JAVA / HTML / CSS / JS / C# / PHP
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Fiverr 
+- 🌱 I’m currently learning Flutter Mobile App Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DarkEye42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nir42/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nir42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nir42.ni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nir_247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://toletkoi.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/nazmul_247)  
+
