@@ -11,10 +11,13 @@ I'm Nazmul Islam, a Computer Science and Engineering graduate from the Asian Uni
 
 📱 Android App Development:
 	Crafting intuitive and high-performing applications tailored to user needs.
+ 
 🌐 Web Design & Development:
 	Building engaging, responsive websites that resonate with audiences.
+ 
 🎨 Professional Logo Design:
 	Creating distinctive brand identities that speak volumes.
+ 
 🏢 Brand & Ads Design:
 	Developing captivating campaigns that leave a lasting impression.
 
@@ -26,13 +29,13 @@ Collaboration is at the core of my approach, valuing communication and teamwork 
 
 Let's connect and explore how my expertise can elevate your digital presence and bring your vision to life.
 
-Thank you.
 
 Skills: DART / JAVA / HTML / CSS / JS / C# / PHP
 
 - 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Flutter Mobile App Development 
-
+- 🌱 I’m currently learning Flutter Mobile App Development
+  
+Thank you.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DarkEye42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nir42/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nir42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nir42.ni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nir_247)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://toletkoi.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/nazmul_247)  
 
