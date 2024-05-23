@@ -1,7 +1,6 @@
-(https://media.licdn.com/dms/image/D4D16AQH-rzG_P8Eh0A/profile-displaybackgroundimage-shrink_350_1400/0/1703100891117?e=1721865600&v=beta&t=iXFyw0kDZkoxEs3g0HQc-vT1TH1jzlDT66ZSNBt9QgI)
+![Logo Designer, Web Design & Developer And Flutter Mobile App Developer](https://media.licdn.com/dms/image/D4D16AQH-rzG_P8Eh0A/profile-displaybackgroundimage-shrink_350_1400/0/1703100891117?e=1721865600&v=beta&t=iXFyw0kDZkoxEs3g0HQc-vT1TH1jzlDT66ZSNBt9QgI)
 ### Hi there 👋, This is Nazmul Islam
 #### Logo Designer, Web Design & Developer And Flutter Mobile App Developer
-![Logo Designer, Web Design & Developer And Flutter Mobile App Developer]
 
 Hello,
 I'm Nazmul Islam, a Computer Science and Engineering graduate from the Asian University of Bangladesh, passionate about leveraging technology to create impactful digital experiences. With over 7 years of expertise in the tech realm, I've honed my skills in various domains, specializing in:
