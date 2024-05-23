@@ -1,6 +1,8 @@
 ![Logo Designer, Web Design & Developer And Flutter Mobile App Developer](https://media.licdn.com/dms/image/D4D16AQH-rzG_P8Eh0A/profile-displaybackgroundimage-shrink_350_1400/0/1703100891117?e=1721865600&v=beta&t=iXFyw0kDZkoxEs3g0HQc-vT1TH1jzlDT66ZSNBt9QgI)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=DarkEye42) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEye42)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DarkEye42&theme=dark&card_width=1080&card_height=)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEye42&layout=compact)
 
 ### Hi there 👋, This is Nazmul Islam
 #### Logo Designer, Web Design & Developer And Flutter Mobile App Developer
