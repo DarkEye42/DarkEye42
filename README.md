@@ -1,4 +1,4 @@
-![Logo Designer, Web Design & Developer And Flutter Mobile App Developer]([https://media.licdn.com/dms/image/D4D16AQH-rzG_P8Eh0A/profile-displaybackgroundimage-shrink_350_1400/0/1703100891117?e=1721865600&v=beta&t=iXFyw0kDZkoxEs3g0HQc-vT1TH1jzlDT66ZSNBt9QgI])
+![Logo Designer, Web Design & Developer And Flutter Mobile App Developer]([https://firebasestorage.googleapis.com/v0/b/soft-nir-ltd.appspot.com/o/1703100891117.jpeg?alt=media&token=36687746-9b28-4bae-8ca1-ae5e606af809])
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DarkEye42&theme=ocean-gradient&card_width=1080&card_height=)](https://git.io/streak-stats)
 
